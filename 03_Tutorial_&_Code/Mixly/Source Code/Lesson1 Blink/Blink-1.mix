@@ -1,0 +1,1 @@
+<xml version=\"1.1.5\" board=\"Arduino ESP8266\" xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"blink\" id=\"{yy7O7C;N9!0}~oRi{6n\" x=\"553\" y=\"251\"><value name=\"delayTime\"><shadow type=\"math_number\" id=\",57;44`CQ$*#y3|eB-LF\"><field name=\"NUM\">500</field></shadow></value></block></xml>
